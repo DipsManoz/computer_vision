@@ -1,2 +1,5 @@
-pip install streamlit ultralytics opencv-python-headless
+pip install streamlit
+pip install ultralytics
+pip install opencv-python-headless
+
 
